@@ -1,0 +1,72 @@
+<!-- Primary Meta Tags -->
+<title>Bismark Agyapong – Official Links | Markmix Studios</title>
+<meta name="title" content="Bismark Agyapong – Official Links | Markmix Studios">
+<meta name="description" content="Explore all essential links from Bismark Agyapong, creator of Markmix Studios Limited. Connect on social media, view projects, and discover more.">
+<meta name="keywords" content="Bismark Agyapong, 𝑳𝒐𝒓𝒅 𝑩𝒊𝒔𝒎𝒂𝒓𝒌, Lord Bismark, Markmix Studios, Web Developer Ghana, Link in Bio, Tech Creator, Portfolio, Markmix, Markmix Digital Hub, me.markmixstudios.com">
+<meta name="author" content="Bismark Agyapong, (Lord Bismark)">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://me.markmixstudios.com/socials">
+<meta property="og:title" content="Bismark Agyapong (Lord Bismark) – Official Links | Markmix Studios">
+<meta property="og:description" content="Find all official links of Bismark Agyapong, web creator and founder of Markmix Studios. Socials, blog, portfolio and more.">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/onebismark/files@refs/heads/main/bismark.webp">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://me.markmixstudios.com/socials">
+<meta property="twitter:title" content="Lord Bismark – Official Links | Markmix Studios">
+<meta property="twitter:description" content="View all links from Bismark Agyapong (Lord Bismark), founder of Markmix Studios. Follow on social, explore projects, and more.">
+<meta property="twitter:image" content="https://cdn.jsdelivr.net/gh/onebismark/files@refs/heads/main/bismark.webp">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/favicon-96x96.png" 
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'/>
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'/>
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/web-app-manifest-192x192.png' rel='icon' sizes='192x192' type='image/png'/>
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/web-app-manifest-512x512.png' rel='icon' sizes='512x512' type='image/png'/>
+
+<!-- Apple Devices -->
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'/>
+
+<!-- Windows Tiles -->
+<meta content='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/favicon-144.png' name='msapplication-TileImage'/>
+<meta content='#ffffff' name='msapplication-TileColor'/>
+
+<!-- Fallback .ico -->
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/favicon.ico' rel='icon' type='image/x-icon'/>
+
+<!-- Web Manifest for Progressive Web App Support -->
+<link href='https://cdn.jsdelivr.net/gh/Markmix-Studios/msl-favicons/site.webmanifest' rel='manifest'/>
+
+<!-- Canonical -->
+<link rel="canonical" href="https://me.markmixstudios.com/socials" />
+
+<!-- Schema Markups -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Bismark Agyapong",
+  "alternateName": "Lord Bismark",
+  "url": "https://me.markmixstudios.com/socials",
+  "image": "https://cdn.jsdelivr.net/gh/onebismark/files@refs/heads/main/bismark.webp",
+  "jobTitle": "Web Developer & Creative Technologist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Markmix Studios Limited",
+    "url": "https://markmixstudios.com/about"
+  },
+  "sameAs": [
+    "https://www.facebook.com/onebismark",
+    "https://www.instagram.com/onebismark",
+    "https://www.youtube.com/@onebismark",
+    "https://github.com/onebismark"
+  ],
+  "description": "Official biolink page of Bismark Agyapong, web developer and creator of Markmix Studios. Find links to social platforms, projects, and more.",
+  "gender": "Male",
+  "nationality": "Ghanaian"
+}
+</script>
